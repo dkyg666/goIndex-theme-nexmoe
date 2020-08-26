@@ -33,51 +33,7 @@ function init() {
 					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
-<div>
-    <p class="menu-label has-text-centered">买杯咖啡☕️打赏一下作者吧</p>
-    <p class="menu-label has-text-centered">Buy me a coffee☕️</p>
-    <div class="buttons is-centered are-small">
-        <a class="button is-info donate">
-            <span class="icon is-small">
-                <i class="fab fa-alipay"></i>
-            </span>
-            <span>支付宝</span>
-            <div class="qrcode">
-                <img src="https://oss.achirou.workers.dev/0:/%E7%BB%99%E6%88%91%E4%B9%B0%E6%9D%AF%E5%92%96%E5%95%A1%E2%98%95%EF%B8%8F/alipay.jpeg" alt="支付宝" />
-            </div>
-        </a>
-        <a class="button is-success donate">
-            <span class="icon is-small">
-                <i class="fab fa-weixin"></i>
-            </span>
-            <span>微信</span>
-            <div class="qrcode">
-                <img src="https://oss.achirou.workers.dev/0:/%E7%BB%99%E6%88%91%E4%B9%B0%E6%9D%AF%E5%92%96%E5%95%A1%E2%98%95%EF%B8%8F/wxpay.jpeg" alt="微信" />
-            </div>
-        </a>
-        <a class="button is-warning donate">
-            <span class="icon is-small">
-                <i class="fab fa-paypal"></i> 
-            </span>
-            <span>Paypal</span>
-            <div class="qrcode">
-                <img src="https://oss.achirou.workers.dev/0:/%E7%BB%99%E6%88%91%E4%B9%B0%E6%9D%AF%E5%92%96%E5%95%A1%E2%98%95%EF%B8%8F/bixin.png" />
-                <span style="position: absolute;top: 30px;left: 0;right: 0;color: black;">Thank you very much❤</span>
-            </div>
-        </a>
-        <a class="button is-danger donate">
-            <span class="icon is-small">
-                <i class="fab fa-patreon"></i>
-            </span>
-            <span>Patreon</span>
-            <div class="qrcode">
-                <img src="https://oss.achirou.workers.dev/0:/%E7%BB%99%E6%88%91%E4%B9%B0%E6%9D%AF%E5%92%96%E5%95%A1%E2%98%95%EF%B8%8F/bixin.png" />
-                <span style="position: absolute;top: 30px;left: 0;right: 0;color: black;">Thank you very much❤</span>
-            </div>
-        </a>
-    </div>
-</div>
-			</div>
+		</div>
 	</div>
 </header>
 <div class="mdui-container">
